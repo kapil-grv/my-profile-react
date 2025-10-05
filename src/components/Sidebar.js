@@ -141,12 +141,12 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/kapil_grv/" title="Instagram Profile" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.instagram.com/kapilgrv/" title="Instagram Profile" target="_blank" rel="noopener noreferrer">
                             <i className="icon-instagram" style={{ color: 'black' }}></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/kapil-gauravan-v-13544888/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/kapilgrv/" title="LinkedIn Profile" target="_blank" rel="noopener noreferrer">
                             <i className="icon-linkedin2" style={{ color: 'black' }}></i>
                         </a>
                     </li>
