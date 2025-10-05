@@ -99,12 +99,6 @@ const About = () => {
                 <div
                     ref={ref}
                     className={`feature-grid ${inView ? 'animate-box animated fadeIn' : ''}`}
-                    style={{
-                        display: 'grid',
-                        gridTemplateColumns: 'repeat(4, 1fr)',
-                        gap: 'var(--spacing-md)',
-                        marginTop: 'var(--spacing-lg)'
-                    }}
                 >
                     <FeatureCard
                         icon="icon-bulb"
