@@ -73,7 +73,7 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
                                 offset={-55}
                                 onClick={toggleSidebar}
                             >
-                                Demo's
+                                Live Apps
                             </Link>
                         </li>
                         <li>
