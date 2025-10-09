@@ -68,7 +68,7 @@ body {
     font-size: 16px;
     line-height: 1.6;
     color: var(--gray-700);
-    background: var(--gray-50);
+    /* background: var(--gray-50); */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -291,7 +291,7 @@ p {
     margin-left: 280px;
     width: calc(100% - 280px);
     min-height: 100vh;
-    background: var(--gray-50);
+    /* background: var(--gray-50); */
 }
 
 .colorlib-narrow-content {
@@ -307,8 +307,10 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, var(--primary-600) 0%, var(--primary-700) 100%);
+    background: white;
     overflow: hidden;
+    border-bottom-left-radius: 2%;
+    border-bottom-right-radius: 2%;
 }
 
 .hero-slide {
